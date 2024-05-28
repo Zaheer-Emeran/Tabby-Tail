@@ -1,3 +1,83 @@
+# Theme: Overgrown Magepunk
+
+# Layout
+The layout for the portfolio should include:
+
+# Notes:
+- Toggle Button to change the 4 variants (maybe)
+- Nav-Bar must have vines around it
+- Main Background image is going to be a forest with little bits of tech here and there. There has to be a lil bot boi as well.
+- Icons must be remade and animated for the various Applications and Skills
+- Icons must be Magepunk themed
+- Logo must be magepunk themed
+- Picture of me from an above angle as the main image (maybe, the picture of me and about me part is incorporated into the backgorund maybe?)
+
+# Color Pallet
+
+# Content
+### Logo
+### NavBar [Link to everything else on page] + [Linkedin, Github] + [Download CV]
+### Intro [Intro name and mini description] + [Picture of me]
+### About Me paragraph
+### Experience
+- Nexus Printworks
+- Serena Inn
+- Nexus Printworks
+
+### Education
+- Rosebank College [2021 - 2023]
+- Pelican Park Highschool [2014 - 2019]
+
+### Skills
+- Java
+- C#
+- HTML
+- CSS
+- Javascript
+- SQL
+- GD Script
+- Python
+- React *
+
+### Applications
+- VS Code
+- Blender
+- Android Studio
+- Krita
+- Davinci Resolve
+- Ms Office
+- Godot
+- Unity
+
+### Projects
+- 1st Year Website 
+- Bards Tale
+- DK Manager
+- Deadsec Application
+- Text-based Game
+
+### Contact Piece
+#### Icons
+- Github
+- Linkedin
+- Facebook
+- Instagram
+- 
+
+  
+- Enter name, email address and message
+
+
+
+
+
+
+
+
+
+
+
+# Generated React Things:
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
