@@ -57,6 +57,8 @@ The layout for the portfolio should include:
 - Deadsec Application
 - Text-based Game
 
+### Artwork
+
 ### Contact Piece
 #### Icons
 - Github
