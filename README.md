@@ -58,6 +58,13 @@ The layout for the portfolio should include:
 - Text-based Game
 
 ### Artwork
+- Demo Game Artworks from website
+- Logo Animations
+- Michaels things
+- Wallpapers
+- Portfolio Icons
+- Alex 8-bit tech
+- Shaqeels Creche app vid
 
 ### Contact Piece
 #### Icons
