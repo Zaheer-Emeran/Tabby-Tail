@@ -20,6 +20,7 @@ The layout for the portfolio should include:
 ### Intro [Intro name and mini description] + [Picture of me]
 ### About Me paragraph
 ### Experience
+- Capaciti
 - Nexus Printworks
 - Serena Inn
 - Nexus Printworks
@@ -62,8 +63,6 @@ The layout for the portfolio should include:
 - Linkedin
 - Facebook
 - Instagram
-- 
-
   
 - Enter name, email address and message
 
