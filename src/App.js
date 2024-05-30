@@ -1,6 +1,6 @@
 import React from 'react'
 
-import {Footer , Blog , Possibility, Features, WhatPortfolio , Header} from './containers' ;
+import {Footer , Blog , Features, WhatPortfolio , Header} from './containers' ;
 import {CTA, Brand, Navbar} from './components';
 import './App.css';
 import './index.css'
@@ -11,8 +11,8 @@ const App = () => {
       <div className='gradient__bg'>
         <Navbar />
         <Header />
+        
       </div>
-      
       <Brand />
       <WhatPortfolio />
       <Features />
