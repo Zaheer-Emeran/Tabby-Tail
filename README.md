@@ -6,6 +6,9 @@
 - #FBEEEA
 - #AC7768
 
+![image](https://github.com/Zaheer-Emeran/Portfolio/assets/162816701/82288a32-c441-4bb8-a936-04d251877ac0)
+![image](https://github.com/Zaheer-Emeran/Portfolio/assets/162816701/a4c80f9b-fb0a-43fd-9b9b-129bc1f39898)
+
 
 # Pages:
 ## Homepage
