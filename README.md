@@ -1,4 +1,11 @@
 # Feline Sublime
+# Color Schemes
+- #7D554A
+- #C1816F
+- #DAC2BB
+- #FBEEEA
+- #AC7768
+
 
 # Pages:
 ## Homepage
