@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import { RiMenuLine, RiCloseLin, RiMenu3Line, RiCloseLine } from 'react-icons/ri'
 import './navbar.css';
-import logo from '../../assets/logo_p1.png'
+import logo from '../../assets/tabby_tail_logo.png'
 
 //mobile responsiveness: 53:00 --> https://www.youtube.com/watch?v=F627pKNUCVQ
 

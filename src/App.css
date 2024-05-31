@@ -16,7 +16,7 @@ a{
 }
 
 .gradient__bg{
-  background: radial-gradient(circle at 49% 20%, rgba(6, 2, 45, 1) 0%, rgba(93, 15, 190, 1) 100%);
+  background: linear-gradient(180deg, rgba(218, 194, 187, 1) 39%, rgba(125, 85, 74, 1) 100%);
 }
 
 .gradient__text{
