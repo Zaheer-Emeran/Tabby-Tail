@@ -1,4 +1,4 @@
-# Feline Sublime
+# Tabby Tale
 # Color Schemes
 - #7D554A
 - #C1816F
