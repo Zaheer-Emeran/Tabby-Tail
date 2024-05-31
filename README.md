@@ -1,4 +1,4 @@
-# Tabby Tale
+# Tabby Tail
 # Color Schemes
 - #7D554A
 - #C1816F
