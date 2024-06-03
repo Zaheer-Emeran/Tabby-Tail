@@ -26,11 +26,12 @@ const Header = () => {
           </p>
         </div>
 
-        <div className='tabbyT_tail__header-image'>
-        <img src={header__cat} alt="neko"/>
-        </div>
-
+      
       </div>
+      <div className='tabbyT_tail__header-image'>
+        <img src={header__cat} alt="neko"/>
+      </div>
+
     </div>
   )
 }
