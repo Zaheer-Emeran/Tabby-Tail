@@ -1,6 +1,6 @@
 import React from 'react';
 import './features.css';
-import Feature from '../../components/feature/Feature';
+import Feature from '../../components/feature/feature';
 
 const featuresData = [
   {
@@ -19,6 +19,7 @@ const featuresData = [
     title: 'Nah, I lied - none of these are actually detailed... OR IS IT?!',
     text: 'This is a very detailed and descriptive text that accurately describes the above title...surely'
   },
+  
 ];
 
 const Features = () => {
@@ -31,7 +32,7 @@ const Features = () => {
       
         </div>
         <div className="tabby_tail__features-container">
-      {featuresData.map((item, index) => (
+        {featuresData.map((item, index) => (
         <Feature title={item.title} text={item.text} key={item.title + index} />
       ))}
     </div>
