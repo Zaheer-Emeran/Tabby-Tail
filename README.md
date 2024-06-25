@@ -13,6 +13,15 @@
 
 # Pages:
 ## Homepage
+- Main Introduction Section
+- Health and Wellness Summary
+- Reasoning to Make this website
+- Cat-Stats
+- Something lastly
+- Footer
+
+
+
 
 ## Facts about Cats
 
