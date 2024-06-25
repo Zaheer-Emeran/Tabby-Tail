@@ -4,7 +4,8 @@
   --font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 
   --gradient-text: linear-gradient(89.97deg, #452F29 1.84%, #7D554A 102.67%);
-  --gradient-bar: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%);
+  --gradient-text-light:linear-gradient(89deg, rgba(222, 177, 165, 1) 0%, rgba(189, 125, 107, 1) 95%);
+  --gradient-bar: linear-gradient(103.22deg, #dac2bb -13.86%, #c1816f 99.55%);
   
   --color-bg: #7D554A;
   --color-footer : #FBEEEA;

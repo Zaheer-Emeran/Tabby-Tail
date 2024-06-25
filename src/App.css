@@ -27,6 +27,14 @@ a{
 
 }
 
+.gradient__text_light{
+  background: var(--gradient-text-light);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
 .section__padding{
     padding: 4rem 6rem
 }

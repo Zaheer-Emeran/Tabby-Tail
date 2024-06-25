@@ -9,9 +9,9 @@ import logo from '../../assets/tabby_tail_logo.png'
 const Menu = () =>(
   <>
   <p> <a href="#home">Home</a></p>
-  <p> <a href="#linkedIn">Page 2</a></p>
-  <p> <a href="#linkedIn">Page 3</a></p>
-  <p> <a href="#linkedIn">Page 4</a></p>
+  <p> <a href="#linkedIn">Cat Facts</a></p>
+  <p> <a href="#linkedIn">Health And Wellness</a></p>
+  <p> <a href="#linkedIn">Cat Mem</a></p>
   
   </>
 )

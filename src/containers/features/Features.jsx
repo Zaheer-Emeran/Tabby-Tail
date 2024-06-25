@@ -26,9 +26,13 @@ const Features = () => {
   return (
     <div className='tabby_tail__features section_padding' id='features'>
       <div className='tabby_tail__features-heading'>
-        <h1 className='gradient__text'>
+        <h1 className='gradient__text_light'>
             This is temp text that's probably gonna intro the reasoning behind me making this website
         </h1>
+
+        <p>
+          This is clickable text.. surely
+        </p>
       
         </div>
         <div className="tabby_tail__features-container">
