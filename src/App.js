@@ -1,6 +1,6 @@
 import React from 'react'
 
-import {Footer , Blog , Please_Work, What_Cat , Header} from './containers' ;
+import {Footer , Blog , Please_Work, What_Cat , Header , Catalogue} from './containers' ;
 import {CTA, Brand, Navbar} from './components';
 import './App.css';
 import './index.css'
@@ -16,7 +16,7 @@ const App = () => {
       {/*<Brand />*/}
       <What_Cat />
       <Please_Work />
-      <CTA />
+      <Catalogue />
       <Blog />
       <Footer />
 

@@ -1,0 +1,15 @@
+.dummy_class{
+    width: 10rem;
+    height: 5rem;
+   
+
+}
+
+
+.alpha-gradient {
+    
+    background-size: cover; /* Adjust as necessary */
+    background-repeat: no-repeat; /* Prevents tiling of the background image */
+    background-position: right; /* Aligns the image to the right */
+}
+
